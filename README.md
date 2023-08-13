@@ -31,7 +31,7 @@
 
 <div align="center">
 
-|⭐ CAMILA  | ⭐ ABNER |⭐ ANERSON | ⭐ LETÍCIA | ⭐ ANA |
+|⭐ CAMILA  | ⭐ ABNER |⭐ ANDERSON | ⭐ LETÍCIA | ⭐ ANA |
 | -------- | -------- | -------- | ---------- | ---------- |
 | -em breve | - em breve | - em breve | - em breve |  - em breve |
 
