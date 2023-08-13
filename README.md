@@ -31,8 +31,8 @@
 
 <div align="center">
 
-|⭐ CAMILA  | ⭐ ANTÔNIO ABNER |⭐ ANERSON | ⭐ LETÍCIA |
-| -------- | -------- | -------- | ---------- |
-| -em breve | - em breve | - em breve | - em breve |
+|⭐ CAMILA  | ⭐ ABNER |⭐ ANERSON | ⭐ LETÍCIA | ⭐ ANA |
+| -------- | -------- | -------- | ---------- | ---------- |
+| -em breve | - em breve | - em breve | - em breve |  - em breve |
 
 </div>
