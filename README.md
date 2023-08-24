@@ -23,7 +23,11 @@
 
 <h2> 💻 :: Ferramentas Utilizadas </h2>
 
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
+
+</div>
 
 
 <h2> 🤝 :: Função dos Membros </h2>
