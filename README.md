@@ -21,9 +21,10 @@
 
 - Em Breve
 
-<h2> 💻 :: Plataformas Utilizadas </h2>
+<h2> 💻 :: Ferramentas Utilizadas </h2>
 
-- Em Breve
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
+
 
 <h2> 🤝 :: Função dos Membros </h2>
 
