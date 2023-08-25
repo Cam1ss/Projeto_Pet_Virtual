@@ -43,4 +43,4 @@
 </div>
 
 
-![Static Badge](https://img.shields.io/badge/STATUS-EM%20ANDAMENTO-brightgreen?style=for-the-badge&labelColor=black&color=yellow)
+![Static Badge](https://img.shields.io/badge/STATUS-EM%20ANDAMENTO-brightgreen?style=for-the-badge&color=yellow)
