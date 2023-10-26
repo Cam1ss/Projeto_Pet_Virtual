@@ -38,7 +38,7 @@
 
 |⭐ CAMILA  | ⭐ ABNER |⭐ ANDERSON | ⭐ LETÍCIA | ⭐ ANA |
 | -------- | -------- | -------- | ---------- | ---------- |
-| -em breve | - em breve | - em breve | - em breve |  - em breve |
+| - layout | - layout | - codificador | - layout |  - codificadora |
 
 </div>
 
