@@ -1,0 +1,111 @@
+<html>
+
+<head>
+  <style>
+   body {
+      background: url("https://github.com/Cam1ss/Projeto_Pet_Virtual/assets/124885820/609090ca-382f-4bec-a816-b90f75322edb");
+      backgroundsize: cover;
+      background-repeat: no-repeat;
+      margin: 0;
+    }
+     
+     
+    
+      #bolhas {
+            display: none;
+            position: absolute;
+            width: 300px;
+            height: auto;
+            top: 580px;
+            left: 350px;
+            z-index: 1;
+      }
+    
+     #pinguimS{
+      position: absolute;
+      width: 600px;
+      height: auto;
+      top: 325px;
+      left: 200px;
+      
+     }
+    
+     #pinguimL{
+      display: none;
+      position: absolute;
+      width: 388px;
+      height: auto;
+      top: 400px;
+      left: 307px;
+      
+     }
+    
+     #yellowSpace {
+            background-color: #EEF296; 
+            width: 20%; 
+            height: 100vh;
+            position: fixed;
+            top: 0;
+            right: 0;
+            display: flex;
+            flex-direction: column; 
+            justify-content: center; 
+            align-items: center; 
+            padding: 20px;
+        }
+    
+    img {
+            margin-bottom: 100px;
+            cursor: pointer;
+            width: 40%;
+            height: auto;
+        }
+  </style>
+</head>
+  
+<body>
+  
+<div id="yellowSpace">
+  
+  <img id="sab" src="https://github.com/Cam1ss/Projeto_Pet_Virtual/assets/124885820/5d6e55e6-f08c-44d9-a37b-0b5d71194376" alt="Sabão" onclick="ensaboar()">
+  
+  <img id="Sujo" src="https://github.com/Cam1ss/Projeto_Pet_Virtual/assets/124885820/f2aae837-99f7-4859-b016-968238e5445c" alt="aa" onclick="jogarAgua()">
+                                               
+</div>
+  
+  <img id="bolhas" src="https://github.com/Cam1ss/Projeto_Pet_Virtual/assets/124885820/7e5ba61c-7b3b-4d65-b943-a7191847061f" alt="Bolhas">
+  
+  
+  <script>
+    var limpo = false
+    var ensaboado = false
+  
+    function ensaboar() {
+  
+    if (limpo == false) {
+       document.getElementById('bolhas').style.display = 'block'; 
+       ensaboado = true;
+    } else {
+       console.log("O Pinguinho está limpo!");
+    }
+   }
+
+
+    function jogarAgua() {
+  
+     if (ensaboado == true) {
+         document.getElementById('bolhas').style.display = 'none';
+         document.getElementById('pinguimS').style.display = 'none';
+         document.getElementById('pinguimL').style.display = 'block';
+     }
+   }
+
+  </script>
+  
+</body>  
+
+ <img id="pinguimS" src="https://github.com/Cam1ss/Projeto_Pet_Virtual/assets/124885820/2167cda9-39fe-42b2-93ce-99f3c4697859" alt="Pinguim-Sujo">
+  
+ <img id="pinguimL" src="https://github.com/Cam1ss/Projeto_Pet_Virtual/assets/124885820/8ecdf769-1e85-4de4-a950-d3ebc1f5b2e6" alt="Pinguim-Limpo">
+  
+</html>
