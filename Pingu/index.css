@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Lilita+One&family=Noto+Sans:wght@600&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Lilita One';
+}
+
+.main-index {
+    width: 100vw;
+    height: 100vh;
+    background-color: #4682B4;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(Img/3nRI.gif);
+}
+
+.maior-index {
+    width: 70vw;
+    height: 70vh;
+    display: flex;
+    flex-direction: row; /* Deixa os objetos alinhados*/
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: 	#ADD8E6; 
+    border-radius: 20px; 
+    padding: 20px  ;
+
+}
+
+.left > h2 {
+    font-size: 24px;
+    font-weight: 100;
+    color: #265275;
+}
+
+.left {
+    width: 50vw;
+    height: 70vh;
+    flex-direction: column;
+}
+
+.img-pinguim {
+    width: 70%;
+    position: relative;
+    top: 9%;
+    left: 55px;
+}
+
+.rigth {
+    width: 50vw;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-nome {
+    width: 50%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background: #265275;
+    border-radius: 20px;
+    box-shadow: 0px 5px 20px #4682B4;
+}
+
+.card-nome > h3 {
+    color: #ffffff;
+    font-weight: 100;
+    position: relative;
+    top: -9%;
+    left: 6%;
+    font-size: 24px;
+}
+
+.textfield {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.textfield > input {
+    width: 60%;
+    border: none;
+    border-radius: 9px;
+    padding: 7px;
+    background-color: #759ec0;
+    font-size: 12pt;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.textfield > label {
+    position: relative;
+    top: 3px;
+    right: 7px;
+    color: #ffffff;
+    font-weight: 100;
+    font-size: 21px;
+}
+
