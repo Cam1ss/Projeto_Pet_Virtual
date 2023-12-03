@@ -60,6 +60,7 @@ body{
     width: 50%;
     height: 40%;
     display: flex;
+    align-items: center;
     justify-content: center;
     flex-direction: column;
     padding: 30px 35px;
@@ -81,6 +82,7 @@ body{
     display: flex;
     align-items: flex-start;
     justify-content: center;
+    margin: 0px 0px 9px;
 }
 
 .textfield > input {
@@ -103,3 +105,19 @@ body{
     font-size: 21px;
 }
 
+.textfield > input ::placeholder {
+    color: #ffffff;
+}
+
+.btn {
+    width: 40%;
+    padding: 6px 2px;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 600;
+   color: #265275;
+   cursor: pointer;
+}
